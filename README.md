@@ -1,4 +1,5 @@
-Heart Disease Prediction Project
+Heart Disease Prediction Project:
+
 This project focuses on predicting heart disease using a dataset and various machine-learning models. The notebook demonstrates data preprocessing, model building, and evaluation steps.
 
 Key Steps:
